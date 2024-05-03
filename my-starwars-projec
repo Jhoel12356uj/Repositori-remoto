@@ -1,0 +1,4 @@
+git remote add origin <URL-DE-TU-REPOSITORIO>
+git branch -m master staging
+git push -u origin staging
+
